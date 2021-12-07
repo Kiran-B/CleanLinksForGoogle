@@ -36,7 +36,7 @@
 			</dict>
 		</array>
 		<key>SFSafariExtensionBundleIdentifiersToUninstall</key>
-		<string>com.umetzu.disablegoogleredirect</string>
+		<string>com.kiran.disablegoogleredirect</string>
 		<key>SFSafariWebsiteAccess</key>
 		<dict>
 			<key>Allowed Domains</key>

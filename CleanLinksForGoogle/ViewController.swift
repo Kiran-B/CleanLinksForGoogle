@@ -16,7 +16,7 @@ class ViewController: NSViewController, NSWindowDelegate	 {
     }
     
     @IBAction func openSafariExtensionPreferences(_ sender: AnyObject?) {
-        SFSafariApplication.showPreferencesForExtension(withIdentifier: "com.umetzu.CleanLinksForGoogle.Extension") { error in
+        SFSafariApplication.showPreferencesForExtension(withIdentifier: "com.kiran.CleanLinksForGoogle.Extension") { error in
             if let _ = error {
 
             }
